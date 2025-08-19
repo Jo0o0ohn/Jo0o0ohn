@@ -1,7 +1,7 @@
 <h1 align="center"> 💫 About Me:</h1>
 <h3 align="center">Hi👋, I'm John , Detail-oriented Computer Science graduate with strong expertise in Flutter and Firebase, and hands-on experience in full-stack and mobile application development</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: johnmamdouh620@gmail.com</h3>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
